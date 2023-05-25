@@ -1,7 +1,9 @@
 {
 
-	"token": "YOUR_TOKEN_HERE",
+	"token": "YOUR_TOKEN",
 	"delay": 5000,
-	"splitvalue": ","
+	"splitvalue": "\n",
+	"ban_command": "?ban",
+	"ban_reason": "Ratting"
 	
 }
